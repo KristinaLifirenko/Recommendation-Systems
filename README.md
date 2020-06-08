@@ -14,5 +14,6 @@ Rec_sys_FastAI.ipynb - пример реализации рек. системы 
 
 /heroku_deploy - папка с файлами для деплоя проекта в heroku.
 
+Датасет food_dict_prepared.csv, использованный для деплоя сервиса на heroku, доступен по ссылке: https://drive.google.com/file/d/1XcF6xdeq5DnYqi2MlrZAfxdN-8cJs4AR/view?usp=sharing
 
 Демонстрация работы сервиса с помощью streamlit и heroku: https://lit-garden-31467.herokuapp.com/
