@@ -379,7 +379,7 @@ nvidia-ml-py3==7.352.0
 oauthlib==3.0.1
 odfpy==1.4.1
 olefile==0.46
-onnx==1.7.0
+onnx==1.13.0
 opencv-python==4.2.0.34
 openpyxl==3.0.3
 openslide-python @ git+git://github.com/rosbo/openslide-python.git@6bb6e3dbae448fe9ccf21a5a2078e9d7e890153c
